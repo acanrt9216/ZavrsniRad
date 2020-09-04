@@ -1,0 +1,64 @@
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\RdlCompile.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\RdlCompile.compiled
+C:\Users\AcaPC\source\repos\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+D:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.dll
+D:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+D:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+D:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+D:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.dll
+D:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.pdb
+E:\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.dll
+E:\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.pdb
+E:\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+E:\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+E:\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.dll
+E:\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.pdb
+D:\Aca\Proba\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.dll
+D:\Aca\Proba\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\Aca\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aca\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aca\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aca\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+D:\Aca\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+D:\Aca\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+D:\Aca\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.dll
+D:\Aca\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.pdb
+E:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.dll
+E:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Biblioteka.pdb
+E:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+E:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+E:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.dll
+E:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.pdb
+E:\Aca\ZavrsniRad\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+E:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Aca\ZavrsniRad\Biblioteka\bin\Debug\Microsoft.SqlServer.Types.dll

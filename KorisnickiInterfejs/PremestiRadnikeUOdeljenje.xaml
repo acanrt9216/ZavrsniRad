@@ -1,0 +1,43 @@
+﻿<Window x:Class="KorisnickiInterfejs.PremestiRadnikeUOdeljenje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="PremestiRadnikeUOdeljenje" Height="500" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2.5*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2.5*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Grid Margin="0 30 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" FontSize="14" Text="Iz odeljenja: "/>
+                <ComboBox Grid.Column="1" Name="cmbIzOdeljenja" Width="100" SelectionChanged="CmbIzOdeljenja_SelectionChanged"/>
+            </Grid>
+            <ListView Name="lvRadnici" Margin="0 0 0 00" Height="350"/>    
+        </StackPanel>
+        
+        <Button Click="BtnPremesti_Click" Grid.Column="1" Name="btnPremesti" Content="->" FontSize="26" Width="50" Height="50"/>
+        <StackPanel Grid.Column="2">
+            <Grid Margin="0 30 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" FontSize="14" Text="U odeljenje: "/>
+                <ComboBox Grid.Column="1" Name="cmbUOdeljenje" Width="100" SelectionChanged="CmbUOdeljenje_SelectionChanged"/>
+            </Grid>
+            <ListView Name="lvOdeljenje" Grid.Column="2" Margin="0 0 0 0" Height="350"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

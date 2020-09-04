@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6D235F8-761B-427F-97E3-440795BE41DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KorisnickiInterfejs</RootNamespace>
+    <AssemblyName>KorisnickiInterfejs</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ControlzEx, Version=3.0.2.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ControlzEx.3.0.2.4\lib\net45\ControlzEx.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro, Version=1.6.5.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.6.5\lib\net46\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\ControlzEx.3.0.2.4\lib\net45\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="DnevnikRada.xaml.cs">
+      <DependentUpon>DnevnikRada.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DnevnikRadaSefOdeljenja.xaml.cs">
+      <DependentUpon>DnevnikRadaSefOdeljenja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DSGodisnjiOdmor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSGodisnjiOdmor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSKapije.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSKapije.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSLokacije.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSLokacije.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSMesecni.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSMesecni.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSOdeljenje.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSOdeljenje.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSProlasci.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSProlasci.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSRadnik.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSRadnik.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaGodisnjihOdmora.xaml.cs">
+      <DependentUpon>IzmenaGodisnjihOdmora.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaKapije.xaml.cs">
+      <DependentUpon>IzmenaKapije.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaLokacije.xaml.cs">
+      <DependentUpon>IzmenaLokacije.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaOdeljenja.xaml.cs">
+      <DependentUpon>IzmenaOdeljenja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaPauze.xaml.cs">
+      <DependentUpon>IzmenaPauze.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaPraznika.xaml.cs">
+      <DependentUpon>IzmenaPraznika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaProlaska.xaml.cs">
+      <DependentUpon>IzmenaProlaska.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaPropusnice.xaml.cs">
+      <DependentUpon>IzmenaPropusnice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaRadnika.xaml.cs">
+      <DependentUpon>IzmenaRadnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaSatnice.xaml.cs">
+      <DependentUpon>IzmenaSatnice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajGodisnjiOdmor.xaml.cs">
+      <DependentUpon>IzvestajGodisnjiOdmor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajKapije.xaml.cs">
+      <DependentUpon>IzvestajKapije.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajLokacije.xaml.cs">
+      <DependentUpon>IzvestajLokacije.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajMesecni.xaml.cs">
+      <DependentUpon>IzvestajMesecni.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajOdeljenje.xaml.cs">
+      <DependentUpon>IzvestajOdeljenje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajProlasci.xaml.cs">
+      <DependentUpon>IzvestajProlasci.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IzvestajRadnik.xaml.cs">
+      <DependentUpon>IzvestajRadnik.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="KontrolaProlazakaInOut.xaml.cs">
+      <DependentUpon>KontrolaProlazakaInOut.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Odmor.xaml.cs">
+      <DependentUpon>Odmor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PauzaOdbrojavanje.xaml.cs">
+      <DependentUpon>PauzaOdbrojavanje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Podesavanja.xaml.cs">
+      <DependentUpon>Podesavanja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke.xaml.cs">
+      <DependentUpon>Poruke.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledGodisnjegOdmora.xaml.cs">
+      <DependentUpon>PregledGodisnjegOdmora.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledKapija.xaml.cs">
+      <DependentUpon>PregledKapija.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledLokacija.xaml.cs">
+      <DependentUpon>PregledLokacija.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledOdeljenje.xaml.cs">
+      <DependentUpon>PregledOdeljenje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledPauze.xaml.cs">
+      <DependentUpon>PregledPauze.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledPraznika.xaml.cs">
+      <DependentUpon>PregledPraznika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledPrijavljenogKorisnika.xaml.cs">
+      <DependentUpon>PregledPrijavljenogKorisnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledProlazaka.xaml.cs">
+      <DependentUpon>PregledProlazaka.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledPropusnice.xaml.cs">
+      <DependentUpon>PregledPropusnice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledRadnika.xaml.cs">
+      <DependentUpon>PregledRadnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PregledSatnice.xaml.cs">
+      <DependentUpon>PregledSatnice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PremestiRadnikeUOdeljenje.xaml.cs">
+      <DependentUpon>PremestiRadnikeUOdeljenje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaGodisnjegOdmora.xaml.cs">
+      <DependentUpon>PretragaGodisnjegOdmora.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaKapija.xaml.cs">
+      <DependentUpon>PretragaKapija.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaLokacija.xaml.cs">
+      <DependentUpon>PretragaLokacija.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaOdeljenja.xaml.cs">
+      <DependentUpon>PretragaOdeljenja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaPauza.xaml.cs">
+      <DependentUpon>PretragaPauza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaPraznika.xaml.cs">
+      <DependentUpon>PretragaPraznika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaProlazaka.xaml.cs">
+      <DependentUpon>PretragaProlazaka.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaPropusnica.xaml.cs">
+      <DependentUpon>PretragaPropusnica.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaRadnika.xaml.cs">
+      <DependentUpon>PretragaRadnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaSatnica.xaml.cs">
+      <DependentUpon>PretragaSatnica.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PropusnicaProlazak.xaml.cs">
+      <DependentUpon>PropusnicaProlazak.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SimulatorProlaska.xaml.cs">
+      <DependentUpon>SimulatorProlaska.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UnosKapije.xaml.cs">
+      <DependentUpon>UnosKapije.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosLokacije.xaml.cs">
+      <DependentUpon>UnosLokacije.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosOdeljenja.xaml.cs">
+      <DependentUpon>UnosOdeljenja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosPauze.xaml.cs">
+      <DependentUpon>UnosPauze.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosPraznika.xaml.cs">
+      <DependentUpon>UnosPraznika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosPropusnice.xaml.cs">
+      <DependentUpon>UnosPropusnice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosRadnika.xaml.cs">
+      <DependentUpon>UnosRadnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnosSatnice.xaml.cs">
+      <DependentUpon>UnosSatnice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ZaboravljenaLozinka.xaml.cs">
+      <DependentUpon>ZaboravljenaLozinka.xaml</DependentUpon>
+    </Compile>
+    <Page Include="DnevnikRada.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DnevnikRadaSefOdeljenja.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaGodisnjihOdmora.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaKapije.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaLokacije.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaOdeljenja.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaPauze.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaPraznika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaProlaska.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaPropusnice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaRadnika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzmenaSatnice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajGodisnjiOdmor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajKapije.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajLokacije.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajMesecni.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajOdeljenje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajProlasci.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IzvestajRadnik.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="KontrolaProlazakaInOut.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Odmor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PauzaOdbrojavanje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PocetniEkran.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PocetniEkran.xaml.cs">
+      <DependentUpon>PocetniEkran.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Podesavanja.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Poruke.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledGodisnjegOdmora.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledKapija.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledLokacija.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledOdeljenje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledPauze.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledPraznika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledPrijavljenogKorisnika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledProlazaka.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledPropusnice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledRadnika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PregledSatnice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PremestiRadnikeUOdeljenje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaGodisnjegOdmora.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaKapija.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaLokacija.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaOdeljenja.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaPauza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaPraznika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaProlazaka.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaPropusnica.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaRadnika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PretragaSatnica.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Prijava.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PropusnicaProlazak.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SimulatorProlaska.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosKapije.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosLokacije.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosOdeljenja.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosPauze.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosPraznika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosPropusnice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosRadnika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnosSatnice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ZaboravljenaLozinka.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Prijava.xaml.cs">
+      <DependentUpon>Prijava.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="IzvestajGodisnjiOdmor.rdlc" />
+    <EmbeddedResource Include="IzvestajKapije.rdlc" />
+    <EmbeddedResource Include="IzvestajLokacije.rdlc" />
+    <EmbeddedResource Include="IzvestajMesecni.rdlc" />
+    <EmbeddedResource Include="IzvestajOdeljenje.rdlc" />
+    <EmbeddedResource Include="IzvestajProlasci.rdlc" />
+    <EmbeddedResource Include="IzvestajRadnik.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportRadnik.rdlc" />
+    <None Include="DSGodisnjiOdmor.xsc">
+      <DependentUpon>DSGodisnjiOdmor.xsd</DependentUpon>
+    </None>
+    <None Include="DSGodisnjiOdmor.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSGodisnjiOdmor.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSGodisnjiOdmor.xss">
+      <DependentUpon>DSGodisnjiOdmor.xsd</DependentUpon>
+    </None>
+    <None Include="DSKapije.xsc">
+      <DependentUpon>DSKapije.xsd</DependentUpon>
+    </None>
+    <None Include="DSKapije.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSKapije.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSKapije.xss">
+      <DependentUpon>DSKapije.xsd</DependentUpon>
+    </None>
+    <None Include="DSLokacije.xsc">
+      <DependentUpon>DSLokacije.xsd</DependentUpon>
+    </None>
+    <None Include="DSLokacije.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSLokacije.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSLokacije.xss">
+      <DependentUpon>DSLokacije.xsd</DependentUpon>
+    </None>
+    <None Include="DSMesecni.xsc">
+      <DependentUpon>DSMesecni.xsd</DependentUpon>
+    </None>
+    <None Include="DSMesecni.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSMesecni.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSMesecni.xss">
+      <DependentUpon>DSMesecni.xsd</DependentUpon>
+    </None>
+    <None Include="DSOdeljenje.xsc">
+      <DependentUpon>DSOdeljenje.xsd</DependentUpon>
+    </None>
+    <None Include="DSOdeljenje.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSOdeljenje.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSOdeljenje.xss">
+      <DependentUpon>DSOdeljenje.xsd</DependentUpon>
+    </None>
+    <None Include="DSProlasci.xsc">
+      <DependentUpon>DSProlasci.xsd</DependentUpon>
+    </None>
+    <None Include="DSProlasci.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSProlasci.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSProlasci.xss">
+      <DependentUpon>DSProlasci.xsd</DependentUpon>
+    </None>
+    <None Include="DSRadnik.xsc">
+      <DependentUpon>DSRadnik.xsd</DependentUpon>
+    </None>
+    <None Include="DSRadnik.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSRadnik.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSRadnik.xss">
+      <DependentUpon>DSRadnik.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteka\Biblioteka.csproj">
+      <Project>{706C5E70-1FF8-47D8-A7FE-2B93F61BE95E}</Project>
+      <Name>Biblioteka</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sesija\Sesija.csproj">
+      <Project>{D351195F-BB0C-429A-98EC-BB3F56465E36}</Project>
+      <Name>Sesija</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\Zaposleni.jpg" />
+    <Resource Include="images\passwordIcon.jpg" />
+    <Resource Include="images\reportIcon.png" />
+    <Resource Include="images\settingsIcon.jpg" />
+    <Resource Include="images\usernameIcon.jpg" />
+    <Resource Include="images\logoutIcon.png" />
+    <Content Include="BazaPodataka.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

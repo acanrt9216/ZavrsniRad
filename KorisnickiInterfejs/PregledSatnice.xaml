@@ -1,0 +1,48 @@
+﻿<Window x:Class="KorisnickiInterfejs.PregledSatnice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterOwner"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="PregledSatnice" Height="500" Width="400">
+    <Border Padding="15">
+        <StackPanel HorizontalAlignment="Center" Margin="0 80">
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="SatnicaID: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbSatnicaID" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Naziv: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbNaziv" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Opis: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbOpis" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Broj sati: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbBrojSati" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Button Name="btnIzmeniSatnicu" Click="BtnIzmeniSatnicu_Click"  Content="Izmeni satnicu" Width="100" Height="30" Margin="0 20"/>
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,57 @@
+﻿<Window x:Class="KorisnickiInterfejs.PregledProlazaka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="PregledProlazaka" Height="500" Width="400">
+    <Border Padding="15">
+        <StackPanel HorizontalAlignment="Center" Margin="0 80">
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="ProlazakID: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbProlazakID" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Radnik: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbRadnik" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Pravac: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbPravac" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Vreme prolaska: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbVremeProlaska" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center" IsEnabled="False"/>
+            </Grid>
+
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Kapija: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbKapija" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Button Name="btnIzmeniProlazak" Content="Izmeni prolazak" Click="BtnIzmeniProlazak_Click" Width="100" Height="30" Margin="0 20"/>
+        </StackPanel>
+    </Border>
+</Window>

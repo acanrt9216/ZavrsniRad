@@ -1,0 +1,56 @@
+﻿<Window x:Class="KorisnickiInterfejs.IzmenaPropusnice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="IzmenaPropusnice" Height="500" Width="400">
+    <Border Padding="15">
+        <StackPanel HorizontalAlignment="Center" Margin="0 80">
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="PropusnicaID: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbPropusnicaID" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Ime: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbIme" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Prezime: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbPrezime" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Razlog: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbRazlog" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Datum: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbDatum" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Right"/>
+            </Grid>
+            <Button Content="Izmeni propusnicu" Name="btnIzmenaPropusnice" Click="BtnIzmenaPropusnice_Click"  Width="130" Margin="0 5 0 0"/>
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,84 @@
+﻿<Window x:Class="KorisnickiInterfejs.UnosRadnika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="UnosRadnika" Height="520" Width="600">
+    <!--<Window.Background>
+        <ImageBrush Stretch="Fill" Opacity="0.3" ImageSource="/images/Zaposleni.jpg"/>
+    </Window.Background>-->
+    <Border Padding="15">
+        <StackPanel Margin="90 0 0 0" VerticalAlignment="Center">
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Ime: "  FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbIme" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Prezime: "  FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbPrezime" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Datum rodjenja:"  FontWeight="Bold" FontSize="13" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbDatumRodjenja" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Posao: "  FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbPosao" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Plata: "  FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbPlata" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Odeljenje: "  FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <ComboBox Grid.Column="1" Name="cmbOdeljenje" Width="200" Height="25" FontSize="12"  HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Privilegija: "  FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <ComboBox Grid.Column="1" Name="cmbPrivilegija" Width="200" Height="25" FontSize="12"  HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Satnica: " FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <ComboBox Grid.Column="1" Name="cmbSatnica" Width="200" Height="25" FontSize="12"  HorizontalAlignment="Left"/>
+            </Grid>
+            
+            <Button Click="BtnSacuvajRadnika_Click" Name="btnSacuvajRadnika" Content="Sacuvaj radnika" FontSize="14" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="0 20 50 0"/>
+        </StackPanel>
+    </Border>
+</Window>

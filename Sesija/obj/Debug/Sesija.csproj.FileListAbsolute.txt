@@ -1,0 +1,53 @@
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\bin\Debug\Sesija.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\bin\Debug\Sesija.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\obj\Debug\Sesija.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\Sesija\obj\Debug\Sesija.pdb
+D:\Aca\ZavrsniRad\Sesija\bin\Debug\Sesija.dll
+D:\Aca\ZavrsniRad\Sesija\bin\Debug\Sesija.pdb
+D:\Aca\ZavrsniRad\Sesija\bin\Debug\Biblioteka.dll
+D:\Aca\ZavrsniRad\Sesija\bin\Debug\Biblioteka.pdb
+D:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+D:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+D:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+D:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.dll
+D:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.pdb
+E:\ZavrsniRad\Sesija\bin\Debug\Sesija.dll
+E:\ZavrsniRad\Sesija\bin\Debug\Sesija.pdb
+E:\ZavrsniRad\Sesija\bin\Debug\Biblioteka.dll
+E:\ZavrsniRad\Sesija\bin\Debug\Biblioteka.pdb
+E:\ZavrsniRad\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+E:\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+E:\ZavrsniRad\Sesija\obj\Debug\Sesija.dll
+E:\ZavrsniRad\Sesija\obj\Debug\Sesija.pdb
+D:\Aca\Proba\ZavrsniRad\Sesija\bin\Debug\Sesija.dll
+D:\Aca\Proba\ZavrsniRad\Sesija\bin\Debug\Sesija.pdb
+D:\Aca\Proba\ZavrsniRad\Sesija\bin\Debug\Biblioteka.dll
+D:\Aca\Proba\ZavrsniRad\Sesija\bin\Debug\Biblioteka.pdb
+D:\Aca\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+D:\Aca\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+D:\Aca\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+D:\Aca\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.dll
+D:\Aca\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\bin\Debug\Sesija.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\bin\Debug\Sesija.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\bin\Debug\Biblioteka.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\bin\Debug\Biblioteka.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Sesija\obj\Debug\Sesija.pdb
+E:\Aca\ZavrsniRad\Sesija\bin\Debug\Sesija.dll
+E:\Aca\ZavrsniRad\Sesija\bin\Debug\Sesija.pdb
+E:\Aca\ZavrsniRad\Sesija\bin\Debug\Biblioteka.dll
+E:\Aca\ZavrsniRad\Sesija\bin\Debug\Biblioteka.pdb
+E:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+E:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+E:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+E:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.dll
+E:\Aca\ZavrsniRad\Sesija\obj\Debug\Sesija.pdb

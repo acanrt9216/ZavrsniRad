@@ -1,0 +1,61 @@
+﻿<Window x:Class="KorisnickiInterfejs.PretragaGodisnjegOdmora"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="PretragaGodisnjegOdmora" Height="500" Width="700">
+    <Border Padding="15">
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="1">
+                    
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Godina: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbGodina" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Za koriscenje: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbUkupnoZaKoriscenje" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+            <Button Click="BtnPretragaGodisnjeg_Click" Name="btnPretragaGodisnjeg" Content="Pretrazi" Width="100" Height="30" Margin="70 20 0 0"/>
+            <DockPanel Height="210" Width="635">
+                <DataGrid Name="dataGrid" AutoGenerateColumns="False" BorderBrush="Gray" BorderThickness="2" Width="600" HorizontalAlignment="Center" Margin="16,10,16,0" RenderTransformOrigin="0.54,0.5" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="1.4*" Header="Radnik" Binding="{Binding Radnik}"/>
+                        <DataGridTextColumn Width="*" Header="Godina" Binding="{Binding Godina}"/>
+                        <DataGridTextColumn Width="2*" Header="Odobren broj" Binding="{Binding OdobrenBroj}"/>
+                        <DataGridTextColumn Width="2.5*" Header="Ukupno Za Koriscenje" Binding="{Binding UkupnoZaKoriscenje}"/>
+                        <DataGridTextColumn Width="1.5*" Header="Iskorisceno" Binding="{Binding Iskorisceno}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+            <Grid Margin="50 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <!--<ColumnDefinition Width="*"/>-->
+                </Grid.ColumnDefinitions>
+                <Button Click="BtnPregledGodOdmora_Click"  Grid.Column="0" Name="btnPregledGodOdmora" Content="Pregled godisnjeg odmora" FontSize="13" FontWeight="Bold" Height="30" Width="210" HorizontalAlignment="Center" Margin="0 10 50 0"/>
+                <!--<Button Click="BtnObrisiGodOdmor_Click"  Grid.Column="1" Name="btnObrisiGodOdmor" Content="Obrisi godisnji odmor" FontSize="13" FontWeight="Bold" Height="30" Width="200" HorizontalAlignment="Left" Margin="0 10 50 0"/>-->
+            </Grid>
+            </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,40 @@
+﻿<Window x:Class="KorisnickiInterfejs.UnosSatnice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="UnosSatnice" Height="500" Width="600">
+    <Border Padding="15">
+        <StackPanel Margin="90 0 0 0" VerticalAlignment="Center">
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Naziv: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbNaziv" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Opis: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbOpis" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Broj sati: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Grid.Column="1" Name="tbBrojSati" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Button Click="BtnSacuvajSatnicu_Click"  Name="btnSacuvajSatnicu" Content="Sacuvaj satnicu" FontSize="13" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="0 20 50 0"/>
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,83 @@
+﻿<Window x:Class="KorisnickiInterfejs.PretragaProlazaka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        Loaded="Window_Loaded"
+        WindowStartupLocation="CenterScreen"
+        
+        
+        mc:Ignorable="d"
+        Title="PretragaProlazaka" Height="500" Width="700">
+    <Border Padding="15">
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Radnik: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbRadnik" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Pravac: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPravac" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Datum i vreme: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbDatumVreme" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Kapija: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbKapija" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                </StackPanel>
+                
+            </Grid>
+            <Button Name="btnPretraziProlazak" Content="Pretrazi" Click="BtnPretraziProlazak_Click" Height="30" Width="150" Margin="0 10"/>
+            <DockPanel Height="210" Width="635">
+                <DataGrid Name="dataGrid" AutoGenerateColumns="False" BorderBrush="Gray" BorderThickness="2" Width="600" HorizontalAlignment="Center" Margin="16,10,16,0" RenderTransformOrigin="0.54,0.5" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="*" Header="ProlazakID" Binding="{Binding ProlazakID}"/>
+                        <DataGridTextColumn Width="1.5*" Header="Radnik" Binding="{Binding Radnik}"/>
+                        <DataGridTextColumn Width="*" Header="Pravac" Binding="{Binding Pravac}"/>
+                        <DataGridTextColumn Width="1.5*" Header="Vreme Prolaska" Binding="{Binding VremeProlaska,StringFormat=\{0:dd.MM.yyyy HH:mm\}}"/>
+                        <DataGridTextColumn Width="*" Header="Kapija" Binding="{Binding Kapija}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Click="BtnPregledProlaska_Click" Grid.Column="0" Name="btnPregledProlaska" Content="Pregled prolaska" FontSize="12" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="0 10 50 0"/>
+                <Button Click="BtnObrisiProlazak_Click"  Grid.Column="1" Name="btnObrisiProlazak" Content="Obrisi prolazak" FontSize="12" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="0 10 50 0"/>
+            </Grid>
+
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,60 @@
+﻿<Window x:Class="KorisnickiInterfejs.PretragaPauza"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="PretragaPauza" Height="500" Width="700">
+    <Border Padding="15">
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="1">
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Naziv: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbNaziv" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Duzina pauze: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbDuzinaPauze" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Center"/>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+            <Button Name="btnPretragaPauze" Content="Pretrazi" Click="BtnPretragaPauze_Click"  Width="100" Height="30" Margin="70 20 0 0"/>
+            <DockPanel Height="210" Width="635">
+                <DataGrid Name="dataGrid" AutoGenerateColumns="False" BorderBrush="Gray" BorderThickness="2" Width="600" HorizontalAlignment="Center" Margin="16,10,16,0" RenderTransformOrigin="0.54,0.5" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="*" Header="Pauza" Binding="{Binding PauzaID}"/>
+                        <DataGridTextColumn Width="*" Header="Naziv" Binding="{Binding Naziv}"/>
+                        <DataGridTextColumn Width="*" Header="Duzina pauze" Binding="{Binding DuzinaPauze}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+            <Grid Margin="50 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Click="BtnPregledPauze_Click"  Grid.Column="0" Name="btnPregledPauze" Content="Pregled pauze" FontSize="13" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Right" Margin="0 10 50 0"/>
+                <Button Click="BtnObrisiPauzu_Click"  Grid.Column="1" Name="btnObrisiPauzu" Content="Obrisi pauzu" FontSize="13" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Left" Margin="0 10 50 0"/>
+                <Button Click="BtnDodajPauzu_Click"  Grid.Column="2" Name="btnDodajPauzu" Content="Dodaj pauzu" FontSize="13" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Left" Margin="0 10 50 0"/>
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>

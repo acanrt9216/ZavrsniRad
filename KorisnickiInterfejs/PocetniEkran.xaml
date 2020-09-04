@@ -1,0 +1,120 @@
+﻿<Window x:Class="KorisnickiInterfejs.PocetniEkran"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        Closing="Window_Closing"
+        Loaded="Window_Loaded"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="Pocetna" Height="450" Width="600">
+    <Window.Background>
+        <ImageBrush Stretch="Fill" Opacity="0.3" ImageSource="/images/Zaposleni.jpg"/>
+    </Window.Background>
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Menu Grid.Column="0" FontSize="14" HorizontalAlignment="Center" Width="590">
+
+                <MenuItem Name="mnUnos" Header="Korisnik" Click="MnUnos_Click">
+
+                    <MenuItem Click="MnPodaci_Click"  Name="mnPodaci" Header="Podaci"/>
+                    <MenuItem Click="MnDnevnikRada_Click"  Name="mnDnevnikRada" Header="Dnevnik rada"/>
+                    <MenuItem Click="MnDnevnikRadaSefOdeljenja_Click"  Name="mnDnevnikRadaSefOdeljenja" Header="Dnevnik rada"/>
+                    <MenuItem Click="MnPoruke_Click"  Name="mnPoruke" Header="Poruke"/>
+
+
+                    <Separator Name="mnKorisnik1Separator"/>
+                    <MenuItem Click="MnOdmor_Click"  Name="mnOdmor" Header="Odmor"/>
+                    <Separator Name="mnKorisnik1Separator1"/>
+                    
+                    <MenuItem Click="MnPauza_Click"  Name="mnPauza" Header="Pauza"/>
+                    <Separator Name="mnKorisnik1Separator2"/>
+                    <MenuItem Click="MnOpcije_Click" Name="mnOpcije" Header="Opcije">
+                        <MenuItem.Icon>
+                            <Image Source="/images/settingsIcon.jpg"  Height="30"  />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Click="MnOdjava_Click" Name="mnOdjava" Header="Odjavi se">
+                        <MenuItem.Icon>
+                            <Image Source="/images/logoutIcon.png" Height="20"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Name="mnStavke" Header="Stavke">
+                    <MenuItem Name="mnRadnik" Header="Radnici">
+                        <MenuItem Click="MnUnosRadnika_Click" Name="mnUnosRadnika" Header="Unos radnika"/>
+                        <MenuItem Click="MnPretragaRadnika_Click" Name="mnPretragaRadnika" Header="Pretraga radnika"/>
+                    </MenuItem>
+                    <MenuItem Name="mnOdeljenja" Header="Odeljenja">
+                        <MenuItem Click="MnUnosOdeljenja_Click" Name="mnUnosOdeljenja" Header="Unos odeljenja"/>
+                        <MenuItem Click="MnPretragaOdeljenja_Click" Name="mnPretragaOdeljenja" Header="Pretraga odeljenja"/>
+                    </MenuItem>
+                    <MenuItem Name="mnKapije" Header="Kapije">
+                        <MenuItem Click="MnUnosKapija_Click" Name="mnUnosKapija" Header="Unos kapija"/>
+                        <MenuItem Click="MnPretragaKapija_Click" Name="mnPretragaKapija" Header="Pretraga kapija"/>
+                    </MenuItem>
+                    <MenuItem Name="mnLokacije" Header="Lokacije">
+                        <MenuItem Click="MnUnosLokacija_Click" Name="mnUnosLokacija" Header="Unos lokacija"/>
+                        <MenuItem Click="MnPretragaLokacija_Click" Name="mnPretragaLokacija" Header="Pretraga lokacija"/>
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Click="MnRadniciOdeljenja_Click" Name="mnRadniciOdeljenja" Header="Radnici -> Odeljenje">
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Name="mnSatnice" Header="Satnice">
+                        <MenuItem Click="MnUnosSatnice_Click"  Name="mnUnosSatnice" Header="Unos satnice"/>
+                        <MenuItem Click="MnPretragaSatnice_Click"  Name="mnPretragaSatnice" Header="Pretraga satnica"/>
+                    </MenuItem>
+                    <MenuItem Name="mnPraznici" Header="Praznici" Click="MnPraznici_Click">
+                        <MenuItem Click="MnUnosPraznika_Click"  Name="mnUnosPraznika" Header="Unos praznika"/>
+                        <MenuItem Click="MnPretragaPraznika_Click"  Name="mnPretragaPraznika" Header="Pretraga praznika"/>
+                    </MenuItem>
+                    <MenuItem Name="mnPauze" Header="Pauze">
+                        <MenuItem Click="MnUnosPauza_Click"  Name="mnUnosPauza" Header="Unos pauza"/>
+                        <MenuItem Click="MnPretragaPauza_Click"  Name="mnPretragaPauza" Header="Pretraga pauza"/>
+                    </MenuItem>
+                </MenuItem>
+
+                <MenuItem Name="mnIzvestaji" Header="Izvestaji">
+                    <MenuItem Name="mnStandardniIzvestaji" Header="Standardni izvestaji">
+                        <MenuItem Click="MnIzvestajRadnik_Click" Name="mnIzvestajRadnik" Header="Izvestaj o radnicima"/>
+                        <MenuItem Click="MnIzvestajOdeljenje_Click" Name="mnIzvestajOdeljenje" Header="Izvestaj o odeljenjima"/>
+                        <MenuItem Click="MnIzvestajKapija_Click" Name="mnIzvestajKapija" Header="Izvestaj o kapijama"/>
+                        <MenuItem Click="MnIzvestajLokacija_Click" Name="mnIzvestajLokacija" Header="Izvestaj o lokacijama"/>
+                        <MenuItem Click="MnIzvestajProlasci_Click" Name="mnIzvestajProlasci" Header="Izvestaj o prolascima"/>
+                    </MenuItem>
+                    <!--<MenuItem Click="MnMesecniIzvestaj_Click" Name="mnMesecniIzvestaj" Header="Mesecni izvestaj"/>-->
+                    <MenuItem Click="MnIzvestajGodisnjiOdmori_Click" Name="mnIzvestajGodisnjiOdmori" Header="Izvestaj godisnjih odmora"/>
+                </MenuItem>
+                <MenuItem Name="mnKontrola" Header="Kontrola">
+                    <MenuItem Name="mnProlasci" Header="Prolasci">
+                        <MenuItem Click="MnPretragaProlazaka_Click" Name="mnPretragaProlazaka" Header="Pretraga prolazaka"/>
+                    </MenuItem>
+                    <MenuItem Name="mnGodisnjiOdmori" Header="Godisnji odmori">
+                        <MenuItem Click="MnPretragaGodisnjihOdmora_Click"  Name="mnPretragaGodisnjihOdmora" Header="Pretraga godisnjih odmora"/>
+                    </MenuItem>
+                    <MenuItem Click="MnParoviINOUT_Click" Name="mnParoviINOUT" Header="Parovi IN/OUT"/>
+                    <MenuItem Click="MnPropusnice_Click" Name="mnPropusnice" Header="Propusnice">
+                        
+                        <MenuItem Click="MnPretragaPropusnica_Click"  Name="mnPretragaPropusnica" Header="Pretraga propusnica"/>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Name="lblVremeOd" Text="VremeOd" HorizontalAlignment="Right" Foreground="White"/>
+            <TextBlock Grid.Column="1" Name="lblCrta" Text="-" HorizontalAlignment="Center" Foreground="White"/>
+            <TextBlock Grid.Column="2" Name="lblVremeDo" Text="VremeDo" HorizontalAlignment="Left" Foreground="White"/>
+        </Grid>
+    </StackPanel>
+</Window>

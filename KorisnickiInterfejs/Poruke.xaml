@@ -1,0 +1,54 @@
+﻿<Window x:Class="KorisnickiInterfejs.Poruke"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="Poruke" Height="450" Width="800">
+    <Border Padding="15">
+        
+        <StackPanel Height="350" VerticalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="4.9*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Name="txtRadnici" Grid.Column="0" Margin="10" Text="Radnik: " FontSize="14" HorizontalAlignment="Left"/>
+                        <ComboBox Grid.Column="1" Name="cmbRadnici" FontSize="12" Padding="2" Width="150" Height="25" HorizontalAlignment="Left"/>
+                        <CheckBox Grid.Column="2" Name="cbPosaljiSvima" Content="Posalji svima" HorizontalAlignment="Center" FontSize="14"/>
+                    </Grid>
+                    <Grid Margin="0 0 0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Margin="10" Text="Poruka: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPoruka" FontSize="12" Padding="2" Width="250" Height="220" HorizontalAlignment="Left"/>
+                    </Grid>
+                </StackPanel>
+                
+                <TextBox Grid.Column="1" Name="tbPrimljenePoruke" Height="268"/>
+            </Grid>
+            
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Click="BtnPosaljiPoruku_Click"  Name="btnPosaljiPoruku" Content="Posalji poruku" FontSize="12" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="100 20 50 0"/>
+                <Button Grid.Column="1" Click="BtnObrisiPoruke_Click"  Name="btnObrisiPoruke" Content="Obrisi poruke" FontSize="12" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="100 20 50 0"/>
+            </Grid>
+            
+        </StackPanel>
+    </Border>
+</Window>

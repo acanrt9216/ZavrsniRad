@@ -1,0 +1,115 @@
+﻿<Window x:Class="KorisnickiInterfejs.PregledPrijavljenogKorisnika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="PregledPrijavljenogKorisnika" Height="350" Width="600">
+    <Border Padding="15">
+        <StackPanel HorizontalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="RadnikID: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbRadnikID" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Ime: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbIme" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Prezime: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPrezime" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Datum rodjenja: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbDatumRodjenja" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Center" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Username: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbUsername" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Password: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPassword" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Margin="20 0 0 0">
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Posao: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPosao" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Plata: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPlata" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Odeljenje: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbOdeljenje" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Privilegija: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbPrivilegija" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Odmor: " FontSize="14" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Name="tbOdmor" FontSize="11" Padding="2" Width="150" Height="25" HorizontalAlignment="Right" IsEnabled="False"/>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+             
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,60 @@
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.g.cs
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\App.g.cs
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server_MarkupCompile.cache
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server_MarkupCompile.lref
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Server.exe.config
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Server.exe
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Server.pdb
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Biblioteka.dll
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Sesija.dll
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Biblioteka.pdb
+D:\Aca\Proba\ZavrsniRad\Server\bin\Debug\Sesija.pdb
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.baml
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.g.resources
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.exe
+D:\Aca\Proba\ZavrsniRad\Server\obj\Debug\Server.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Server.exe.config
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Server.exe
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Server.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Biblioteka.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Sesija.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Biblioteka.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\bin\Debug\Sesija.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\App.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server_MarkupCompile.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server_MarkupCompile.lref
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.g.resources
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.exe
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\Server\obj\Debug\Server.pdb
+E:\Aca\ZavrsniRad\Server\bin\Debug\Server.exe.config
+E:\Aca\ZavrsniRad\Server\bin\Debug\Server.exe
+E:\Aca\ZavrsniRad\Server\bin\Debug\Server.pdb
+E:\Aca\ZavrsniRad\Server\bin\Debug\Biblioteka.dll
+E:\Aca\ZavrsniRad\Server\bin\Debug\Sesija.dll
+E:\Aca\ZavrsniRad\Server\bin\Debug\Biblioteka.pdb
+E:\Aca\ZavrsniRad\Server\bin\Debug\Sesija.pdb
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.g.cs
+E:\Aca\ZavrsniRad\Server\obj\Debug\App.g.cs
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server_MarkupCompile.cache
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server_MarkupCompile.lref
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.baml
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.g.resources
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.exe
+E:\Aca\ZavrsniRad\Server\obj\Debug\Server.pdb

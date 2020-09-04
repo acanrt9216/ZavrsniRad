@@ -1,0 +1,1022 @@
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.lref
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.g.resources
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe.config
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_Content.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\stdole.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE80.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj80.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj2.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\bin\Debug\BazaPodataka.mdb
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.cache
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.compiled
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.baml
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.g.cs
+C:\Users\AcaPC\source\repos\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\BazaPodataka.mdb
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Framework.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\stdole.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE80.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj80.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Newtonsoft.Json.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.MSXML.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj2.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe.config
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_Content.g.cs
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.cache
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.lref
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.baml
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.g.resources
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.cache
+D:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.compiled
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\BazaPodataka.mdb
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Framework.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\stdole.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE80.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj80.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Newtonsoft.Json.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.MSXML.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj2.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe.config
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_Content.g.cs
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.cache
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.lref
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.baml
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.g.resources
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+E:\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\BazaPodataka.mdb
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Framework.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\stdole.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE80.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj80.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Newtonsoft.Json.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.MSXML.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj2.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe.config
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_Content.g.cs
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.cache
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.lref
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.baml
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.g.resources
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+D:\Aca\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\BazaPodataka.mdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Framework.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\stdole.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE80.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj80.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Newtonsoft.Json.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.MSXML.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj2.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe.config
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_Content.g.cs
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.lref
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.baml
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.g.resources
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.compiled
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+D:\Aca\Fax\Zavrsni rad\Proba\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe.config
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_Content.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.cache
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs_MarkupCompile.lref
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\BazaPodataka.mdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Framework.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\stdole.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\EnvDTE80.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj80.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.MSXML.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\VSLangProj2.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaKapije.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaLokacije.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaOdeljenja.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaProlaska.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaRadnika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PocetniEkran.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledKapija.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledLokacija.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledOdeljenje.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledProlazaka.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledRadnika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaKapija.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaLokacija.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaOdeljenja.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaProlazaka.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaRadnika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Prijava.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\SimulatorProlaska.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosKapije.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosLokacije.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosOdeljenja.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosRadnika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.g.resources
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\ZaboravljenaLozinka.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\ZaboravljenaLozinka.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPrijavljenogKorisnika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPrijavljenogKorisnika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ControlzEx.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\MahApps.Metro.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\System.Windows.Interactivity.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\ControlzEx.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\MahApps.Metro.pdb
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\MahApps.Metro.xml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Podesavanja.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Podesavanja.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\App.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaGodisnjihOdmora.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaPauze.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaPraznika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaSatnice.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledGodisnjegOdmora.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPauze.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPraznika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledSatnice.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaGodisnjegOdmora.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaPauza.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaPraznika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaSatnica.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosPauze.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosPraznika.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosSatnice.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaGodisnjihOdmora.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaPauze.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaPraznika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaSatnice.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledGodisnjegOdmora.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPauze.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPraznika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledSatnice.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaGodisnjegOdmora.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaPauza.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaPraznika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaSatnica.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosPauze.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosPraznika.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosSatnice.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaPropusnice.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPropusnice.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaPropusnica.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosPropusnice.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzmenaPropusnice.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PregledPropusnice.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PretragaPropusnica.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\UnosPropusnice.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\DnevnikRada.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\DnevnikRada.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PremestiRadnikeUOdeljenje.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PremestiRadnikeUOdeljenje.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KontrolaProlazakaInOut.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\KontrolaProlazakaInOut.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Poruke.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Poruke.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Odmor.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\Odmor.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\DnevnikRadaSefOdeljenja.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\DnevnikRadaSefOdeljenja.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PropusnicaProlazak.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PropusnicaProlazak.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PauzaOdbrojavanje.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\PauzaOdbrojavanje.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.cache
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\RdlCompile.compiled
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajLokacije.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajKapije.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajOdeljenje.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajProlasci.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajRadnik.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajMesecni.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajMesecni.baml
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajGodisnjiOdmor.g.cs
+E:\Aca\ZavrsniRad\KorisnickiInterfejs\obj\Debug\IzvestajGodisnjiOdmor.baml

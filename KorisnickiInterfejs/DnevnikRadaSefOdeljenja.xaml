@@ -1,0 +1,80 @@
+﻿<Window x:Class="KorisnickiInterfejs.DnevnikRadaSefOdeljenja"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="DnevnikRadaSefOdeljenja" Height="500" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.Column="0" Width="700">
+            <DataGrid Name="dataGrid" SelectionChanged="DataGrid_SelectionChanged" AutoGenerateColumns="False" BorderBrush="Gray" BorderThickness="2" Width="600" HorizontalAlignment="Center" Margin="16,10,16,0" RenderTransformOrigin="0.54,0.5" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="*" Header="Radnik" Binding="{Binding Radnik}"/>
+                    <DataGridTextColumn Width="*" Header="Ponedeljak" Binding="{Binding Ponedeljak}"/>
+                    <DataGridTextColumn Width="*" Header="Utorak" Binding="{Binding Utorak}"/>
+                    <DataGridTextColumn Width="*" Header="Sreda" Binding="{Binding Sreda}"/>
+                    <DataGridTextColumn Width="*" Header="Cetvrtak" Binding="{Binding Cetvrtak}"/>
+                    <DataGridTextColumn Width="*" Header="Petak" Binding="{Binding Petak}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+        <StackPanel Grid.Column="1">
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Radnik: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Margin="10 0 0 0" Grid.Column="1" Name="tbRadnik" FontSize="12" Padding="2" Width="180" Height="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Ponedeljak: " FontSize="13" HorizontalAlignment="Left"/>
+                <TextBox Margin="10 0 0 0" Grid.Column="1" Name="tbPonedeljak" FontSize="12" Padding="2" Width="180" Height="50" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Utorak: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Margin="10 0 0 0" Grid.Column="1" Name="tbUtorak" FontSize="12" Padding="2" Width="180" Height="50" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Sreda: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Margin="10 0 0 0" Grid.Column="1" Name="tbSreda" FontSize="12" Padding="2" Width="180" Height="50" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Cetvrtak: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Margin="10 0 0 0" Grid.Column="1" Name="tbCetvrtak" FontSize="12" Padding="2" Width="180" Height="50" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Petak: " FontSize="14" HorizontalAlignment="Left"/>
+                <TextBox Margin="10 0 0 0" Grid.Column="1" Name="tbPetak" FontSize="12" Padding="2" Width="180" Height="50" HorizontalAlignment="Left"/>
+            </Grid>
+            <Button Name="btnPotvrdiDnevnik" Content="Potvrdi dnevnik" Click="BtnPotvrdiDnevnik_Click" Width="200"/>
+        </StackPanel>
+    </Grid>
+</Window>

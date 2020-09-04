@@ -1,0 +1,42 @@
+﻿<Window x:Class="KorisnickiInterfejs.SimulatorProlaska"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KorisnickiInterfejs"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="SimulatorProlaska" Height="450" Width="450">
+    <Border Padding="15">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Grid Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Radnik: " FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <ComboBox Grid.Column="1" Name="cmbRadnik" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Right" IsReadOnly="True"/>
+            </Grid>
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Pravac: " FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <ComboBox Grid.Column="1" Name="cmbPravac" FontSize="12" Padding="2" Width="200" Height="25" HorizontalAlignment="Right" IsEditable="False" IsReadOnly="True"/>
+            </Grid>
+            
+            <Grid Margin="0 0 0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" Text="Kapija: " FontWeight="Bold" FontSize="14" HorizontalAlignment="Left"/>
+                <ComboBox Grid.Column="1" Name="cmbKapija" Width="200" Height="25" FontSize="12" Padding="2"  HorizontalAlignment="Right"/>
+            </Grid>
+            
+            <Button Click="BtnSacuvajProlazak_Click" Name="btnSacuvajProlazak" Content="Sacuvaj prolazak" FontSize="14" FontWeight="Bold" Height="30" Width="150" HorizontalAlignment="Center" Margin="0 40"/>
+        </StackPanel>
+    </Border>
+</Window>
